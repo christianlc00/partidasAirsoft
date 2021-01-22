@@ -1,0 +1,7 @@
+{
+  "name": "partidasAirsoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
